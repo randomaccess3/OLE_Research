@@ -5,6 +5,12 @@ This code hasn't been tested with anything other than a couple of jumplists.
 Original code can be found: https://bitbucket.org/dimin/pole/
 
 
+Compilation instructions:
+g++ -o poledump pole.cpp poledump.cpp
+
+Tested on OSX
+
+
 
 Copyright and License
 
