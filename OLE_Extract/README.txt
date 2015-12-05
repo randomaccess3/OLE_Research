@@ -1,4 +1,4 @@
-POLE found http://www.dimin.net/software/pole/ with minor modifications to extract act OLE streams without user interaction
+﻿POLE found http://www.dimin.net/software/pole/ with minor modifications to extract act OLE streams without user interaction
 
 This code hasn't been tested with anything other than a couple of jumplists. 
 
@@ -8,8 +8,8 @@ Original code can be found: https://bitbucket.org/dimin/pole/
 Compilation instructions:
 g++ -o poledump pole.cpp poledump.cpp
 
-Tested on OSX
-
+Tested on OSX and Windows 10
+I have compiled a version for OSX and Window
 
 
 Copyright and License
